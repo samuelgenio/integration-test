@@ -1,0 +1,20 @@
+{
+  "name": "integration-test",
+  "version": "1.0.0",
+  "description": "Integration Test",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Samuel Eugenio",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.2.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@elastic/elasticsearch-mock": "^2.0.0",
+    "jest": "^28.1.2",
+    "supertest": "^6.2.4"
+  }
+}
