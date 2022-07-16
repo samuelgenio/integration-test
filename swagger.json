@@ -1,0 +1,32 @@
+{
+	"swagger": "2.0",
+	"info": {
+		"version": "1.0.0",
+		"title": "Integration API",
+		"description": "Teste de integração",
+		"license": {
+			"name": "MIT",
+			"url": "https://opensource.org/licenses/MIT"
+		}
+	},
+	"host": "",
+	"basePath": "/",
+	"schemes": [
+		"https",
+		"http"
+	],
+	"consumes": [
+		"application/json"
+	],
+	"produces": [
+		"application/json"
+	],
+	"securityDefinitions": {
+	},
+	"security": [
+	],
+	"paths": {
+	},
+	"definitions": {
+	}
+}
